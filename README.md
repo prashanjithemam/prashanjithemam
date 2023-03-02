@@ -1,4 +1,16 @@
-### Hi there 👋
+<!-- Introduction -->
+# Hi 👋My name is Prashanjit Hemam 
+
+### Developer. Engineer. Student
+
+...
+<!-- About -->
+Prashanjit is a Computer Science and Engineering student in the Bachelor of Engineering  program of Coimbatore Intitute of Technology,Coimbatore.
+
+<!-- UL -->
+* 🌍  I'm from Manipur,India
+* 🧠  I'm currenttly working on being a Full Stack Developer
+* 😄 Pronouns: he/him
 
 <!--
 **prashanjithemam/prashanjithemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
