@@ -9,7 +9,7 @@ Prashanjit is a Computer Science and Engineering student in the Bachelor of Engi
 
 <!-- UL -->
 * 🌍  I'm from Manipur,India
-* 🧠  I'm currenttly working on being a Full Stack Developer
+* 🧠  I'm currently working on being a Full Stack Developer
 * 😄 Pronouns: he/him
 
 <!--
