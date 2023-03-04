@@ -8,10 +8,15 @@
 Prashanjit is a Computer Science and Engineering student in the Bachelor of Engineering  program of Coimbatore Intitute of Technology,Coimbatore.
 
 <!-- UL -->
-* 🌍  I'm from Manipur,India
-* 🧠  I'm currently working on being a Full Stack Developer
-* 😄 Pronouns: he/him
+* I'm from Manipur,India
+* I'm currently working on being a Full Stack Developer
+* Pronouns: he/him
 
+
+<!-- Socials -->
+### You can Contact me @-
+* https://www.linkedin.com/in/prashanjit-hemam-315a0419b
+* prashanjithemam@gmail.com 
 <!--
 **prashanjithemam/prashanjithemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
